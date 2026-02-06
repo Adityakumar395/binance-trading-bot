@@ -21,6 +21,7 @@ This project demonstrates modular software design, secure API integration, and s
    BINANCE_API_KEY=your_testnet_api_key
    
    BINANCE_API_SECRET=your_testnet_api_secret
+   
    NOTE: The original .env file has been removed from GitHub for security compliance
 
 **Usage Examples**
