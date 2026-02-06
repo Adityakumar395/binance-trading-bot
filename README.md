@@ -11,7 +11,7 @@ This project demonstrates modular software design, secure API integration, and s
 
 **​Structured Logging:** Detailed logs of every transaction and error are maintained in bot.log for auditing.
 
-**​Security Focused:** Environment-based configuration using .env files to protect sensitive API credentials.
+**​Security Focused:** Environment-based configuration using **.env** files to protect sensitive API credentials.
 
 **Setup & Installation**
 
