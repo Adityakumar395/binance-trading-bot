@@ -6,7 +6,9 @@ This project demonstrates modular software design, secure API integration, and s
 **​Key Features**
 
 **​Order Versatility:** Supports both MARKET and LIMIT order types.
+
 **​Side Support:** Fully functional for both BUY and SELL operations.
+
 **​Structured Logging:** Detailed logs of every transaction and error are maintained in bot.log for auditing.
 
 **​Security Focused:** Environment-based configuration using .env files to protect sensitive API credentials.
@@ -14,6 +16,7 @@ This project demonstrates modular software design, secure API integration, and s
 **Setup & Installation**
 
 **1. Clone the Repository:** git clone https://github.com/Adityakumar395/binance-trading-bot.git
+
    cd binance-trading-bot
    
 **2. Install Dependencies:** pip install -r requirements.txt(Dependencies include python-binance and python-dotenv)
