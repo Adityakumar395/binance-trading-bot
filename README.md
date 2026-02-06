@@ -22,6 +22,7 @@ This project demonstrates modular software design, secure API integration, and s
 **2. Install Dependencies:** pip install -r requirements.txt(Dependencies include python-binance and python-dotenv)
 
 **3. Environment Configuration:** Create a file named .envin the root directory and add your Binance Testnet keys.
+
    BINANCE_API_KEY=your_testnet_api_key
    
    BINANCE_API_SECRET=your_testnet_api_secret
@@ -31,6 +32,7 @@ This project demonstrates modular software design, secure API integration, and s
 **Usage Examples**
 
 You can execute orders directory from your terminal using the following commands:
+
 **1. Execute a MARKET BUY Order:**
    python cli.py --symbol BTCUSDT --side BUY --type MARKET --qty 0.1
    
