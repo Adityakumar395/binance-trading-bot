@@ -8,6 +8,7 @@ This project demonstrates modular software design, secure API integration, and s
 **​Order Versatility:** Supports both MARKET and LIMIT order types.
 **​Side Support:** Fully functional for both BUY and SELL operations.
 **​Structured Logging:** Detailed logs of every transaction and error are maintained in bot.log for auditing.
+
 **​Security Focused:** Environment-based configuration using .env files to protect sensitive API credentials.
 
 **Setup & Installation**
