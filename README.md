@@ -21,7 +21,7 @@ This project demonstrates modular software design, secure API integration, and s
    
 **2. Install Dependencies:** pip install -r requirements.txt(Dependencies include python-binance and python-dotenv)
 
-**3. Environment Configuration:** Create a file named .envin the root directory and add your Binance Testnet keys.
+**3. Environment Configuration:** Create a file named .env in the root directory and add your Binance Testnet keys.
 
    BINANCE_API_KEY=your_testnet_api_key
    
